@@ -20,3 +20,5 @@ function uniq(a) {
   }
   return a;
 }
+
+// or
