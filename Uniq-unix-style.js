@@ -22,3 +22,7 @@ function uniq(a) {
 }
 
 // or
+
+function uniq(a) {
+  return a.filter(function(x,i){return i == 0 || !(a[i-1] == x);});
+}
