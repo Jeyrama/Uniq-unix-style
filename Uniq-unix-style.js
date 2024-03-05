@@ -6,3 +6,6 @@ duplicate elements following each other have been reduced to one instance.
 Example:
   ["a", "a", "b", "b", "c", "a", "b", "c"]  =>  ["a", "b", "c", "a", "b", "c"]
 */
+
+
+// Solution
